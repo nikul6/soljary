@@ -1,0 +1,6 @@
+module Pods_soljary1_soljary1Tests {
+  umbrella header "Pods-soljary1-soljary1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
